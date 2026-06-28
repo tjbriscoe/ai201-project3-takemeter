@@ -7,7 +7,7 @@
 
 ## Taxomonies
 
-analysis_detail: this post offers an insightful perspective on the Griselda rap group and their members. The user uses a tactical obsevation and anecdotal approach to back up their claim. They also use statistics to measure the group's performance to support their claim. supported argument backed by sonical, historical, and biographical evidence 
+analysis: this post offers an insightful perspective on the Griselda rap group and their members. The user uses a tactical obsevation and anecdotal approach to back up their claim. They also use statistics to measure the group's performance to support their claim. supported argument backed by sonical, historical, and biographical evidence 
 reaction: emotional response from hip hop listeners in relation to a specific event, time, or place. 
 positive: a positive reaction reaction or praise to the group and/or a specific member of the group
 hot_take: unpopular opinion, bold claim without any substantial evidence 
@@ -36,9 +36,12 @@ Boundary 2: reaction vs. hot_take
 Could be reaction (responding to a specific event) or hot_take (bold claim with no evidence beyond vibes).
 Decision rule: Is the claim about the event, or does the event just trigger a pre-existing opinion? Here the claim ("he hates Gunn") goes well beyond what the event shows. The event is the springboard, not the argument. → hot_take. A pure reaction would be "I can't believe Conway just did that, this is so sad."
 
+TieBreaker Rule:
+When a post contains multiple clause types, label the dominant clause. If the hot take is the conclusion of the post, label it hot_take. If the reaction is the majority of the text and the opinion is incidental, label it reaction.
 
-
-
+## AI Tool Plan 
+I plan on using claude AI to help convert my JSON Data file into a csv file that consists of the reddit comments gathered from my push_pull script and uploading it to the google colab notebook.
+I will also use AI to help me plan and evaluate label ambiguity and correctly categorizing comments with the right label.
 
 
 
