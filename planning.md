@@ -3,6 +3,9 @@
 
 ## Community Being Analyzed 
 1.  r/rap : In this subreddit, I want to analyze and assess the popularity of the rap group, Griselda, amongst hip-hop fans. I want to know where the members of this group and their discography stands amongst avid hip-hop listener and where they would rank them all time as a rap collective/group. 
+2. r/hiphopheads
+3. r/griselda
+4. r/letstalkmusic
 
 
 ## Taxomonies
