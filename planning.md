@@ -10,10 +10,29 @@
 
 ## Taxomonies
 
-analysis: this post offers an insightful perspective on the Griselda rap group and their members. The user uses a tactical obsevation and anecdotal approach to back up their claim. They also use statistics to measure the group's performance to support their claim. supported argument backed by sonical, historical, and biographical evidence 
-reaction: emotional response from hip hop listeners in relation to a specific event, time, or place. 
-positive: a positive reaction reaction or praise to the group and/or a specific member of the group
-hot_take: unpopular opinion, bold claim without any substantial evidence 
+**analysis** — A structured argument backed by specific evidence. The post uses sonic observation,
+historical comparison, biographical context, or statistical data to support a claim.
+The argument could be fact-checked or disputed on its merits. Simply naming an album
+is not evidence — the evidence must be load-bearing. If you removed it, the argument
+would collapse.
+
+**hot_take** — A bold, confident opinion stated without supporting evidence. The post asserts
+rather than argues. Includes rankings, superlatives, and strong claims with no backup.
+The claim might be true, but the post makes no case for it.
+Decision boundary: if removing the evidence doesn't weaken the claim, it's a hot_take.
+
+**reaction** — An immediate emotional response to a specific event, release, or moment.
+Feeling-first, little to no argument. Often triggered by a new drop, a controversy,
+or something the poster just heard for the first time. Time-sensitive content that
+wouldn't make full sense out of context.
+
+**lore_drop** — Shares factual background, history, or biographical context about Griselda
+without making an evaluative argument. Informational, not opinionated. Decision boundary:
+does it argue something, or just share something? If it draws a conclusion, it's analysis.
+
+**off_topic** — Griselda or a member is mentioned only in passing. The comment is primarily
+about another artist, a general rap debate, or something unrelated. If Griselda is
+one name in a long list with no specific discussion, it's off_topic.
 
 
 ## Measurements
